@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/ColorPicker.unity
+    guid: ab0ae85f38481b140bb26a97145b128d
+  - enabled: 1
+    path: Assets/Color picker/Color picker sample scene.unity
+    guid: f996ca77004b14b4696cfe52a839c2ab
   m_configObjects: {}

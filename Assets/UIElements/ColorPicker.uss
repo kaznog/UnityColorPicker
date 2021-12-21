@@ -1,0 +1,47 @@
+.unity-base-slider--horizontal > .unity-base-slider__tracker {
+    -unity-background-scale-mode: scale-and-crop;
+    background-image: resource('images/ColorPicker-CurrentColor-Background@2x');
+    height: 16px;
+    min-height: 16px;
+}
+
+.unity-base-slider--horizontal > .unity-base-slider__dragger-border {
+    height: 30px;
+    min-height: 30px;
+}
+
+.unity-base-slider--horizontal > .unity-base-slider__dragger {
+    height: 20px;
+    min-height: 20px;
+    margin-top: -14px;
+}
+
+.unity-base-slider__text-field {
+    flex-shrink: 0;
+    -unity-font: resource('Fonts & Materials/LiberationSans');
+    -unity-font-definition: resource('Fonts & Materials/LiberationSans SDF');
+    -unity-text-align: middle-left;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+#unity-text-input {
+    flex-shrink: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font: resource('Fonts & Materials/LiberationSans');
+    -unity-font-definition: resource('Fonts & Materials/LiberationSans SDF');
+    -unity-text-align: middle-left;
+}
